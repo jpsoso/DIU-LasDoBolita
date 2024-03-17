@@ -15,14 +15,11 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Jesús Pereira Sánchez     :octocat:     
+ * :bust_in_silhouette:  Raúl Florentino Serra     :octocat:
 
 ----- 
 
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -30,10 +27,12 @@ Miembros
 ## Paso 1. UX User & Desk Research & Analisis 
 
 
-![Método UX](img/Competitive.png) **1.a User Reseach Plan**
+![Método UX](img/Competitive.png) 1.a User Reseach Plan
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+Se quiere analizar la web https://rutadelosvinosdegranada.com/ a nivel de interfaz de usuario y de funcionalidades, la relación entre los dos. Gracias a esto, podemos especificar los objetivos de la página, además de algunas preguntas que se puedan plantear los usuarios. Tras este análisis podremos mejorar la web en función de los puntos especificados anteriormente, en función de si cuadran o no con los que se pretendían al inicio del desarrollo de la misma.
+
+Gracias al plan de User Research podemos definir las claves sobre esta investigación: ¿Quién analiza? ¿Por qué lo hace? ¿Qué es lo que analiza? ... Nos basamos en una plantilla ya definida para realizar esta investigación. 
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
@@ -43,13 +42,23 @@ Miembros
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+Nuestros dos usuarios (Antonio y Marta) son un claro ejemplo de usuarios que pueden llegar a acceder a nuestra página de forma casual sin conocer el Enoturismo. 
+Antonio es una persona adulta, la cuál quiere hacer turismo, algo distinto a lo de siempre, y en Granada. Por otro lado, Marta, la cual tiene un objetivo en común con Antonio: hacer turismo diferente a lo acostumbrado con sus amigos.
+
+![marta](img/martaguerrapres.png) 
+![antonio](img/antoniolopezpres.png) 
+
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
+Antonio encuentra la página web investigando un poco sobre el Enoturismo, un tema que le comentó un compañero de trabajo. Marta, al plantearse sobre el proceso de elaboración del vino encuentra la web. 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+Son formas casuales de aproximarse tanto al tema (Enoturismo: cata de vinos), como de aproximarse a una web como es la nuestra u otra. Son formas que cualquiera de nosotros podría haber tomado para llegar a la página web, no es muy específico.
+ 
+![marta](img/martajourney.png.png) 
+![antonio](img/antoniojourney.png.png) 
+
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----

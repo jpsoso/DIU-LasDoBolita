@@ -37,7 +37,18 @@ Gracias al plan de User Research podemos definir las claves sobre esta investiga
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+Para el análisis competitivo hemos elegido adicionalmente de la página que estamos analizando otras 2 alternativas:
+
+> https://enoturismospain.com/
+> https://turismodevino.com/
+
+En la primera opción, tenemos una página que si bien entra mucho por el ojo (cabe destacar que es la que mejor apariencia presenta de las tres), es la que más pobre en cuanto a contenido ofrece. Solo ofrece visitas a bodegas. Pese a esto, cabe destacar que es la más accesible: Tiene traducción a 5 idiomas. Ofrece actividades en toda la península. Otro aspecto negativo a destacar es que redirige mucho a otras páginas para hacer la reserva, por lo que puede llegar a afectar al usuario a la hora de navegar y perderse entre tantas pestañas.
+
+En contraste, tenemos la segunda alternativa planteada, la que más variedad de contenido ofrece: Catas, actividades, visitas a bodegas, escapadas de pareja, venta de vinos y etc. De las 3 webs, es la que peor apariencia tiene ya que además de tener html un poco raro, tiene algunos bugs visuales, y las fotos de baja calidad dejan un poco que desear. Tiene traducción solo al inglés. 
+
+Por último, la página web https://rutadelosvinosdegranada.com/ es la más equilibrada en cuanto apariencia y variedad de contenido. No es la mejor en esos ámbitos, pero no es la peor. Es la que más variedad de contenido ofrece en Granada (las otras son más nacionales, pero no se centran tanto en zonas en específicas). La carga de contenidos es un poco lenta, puede ser un poco frustante y afectar la experiencia al usuario. No tiene traducción a otros idiomas, por lo que usuarios que no sepan español pueden no verse atraidos a la página si no se valen de recursos de traducción de página. 
+
+Hemos elegido https://turismodevino.com/ como la mejor de las 3. Si bien no es la página que mejor apariencia visual tiene, es la que más contenidos ofrece, por lo que cuanta más variedad se le ofrezca al usuario, este podrá elegir la experiencia que más se acerque a sus preferencias. 
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
@@ -47,7 +58,6 @@ Antonio es una persona adulta, la cuál quiere hacer turismo, algo distinto a lo
 
 ![marta](img/marta.png) 
 ![antonio](img/image.png) 
-
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
@@ -59,9 +69,9 @@ Son formas casuales de aproximarse tanto al tema (Enoturismo: cata de vinos), co
 ![marta](img/mjourney.png) 
 ![antonio](img/ajourney.png) 
 
-
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
+
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 

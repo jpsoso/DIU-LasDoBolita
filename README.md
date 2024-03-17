@@ -45,8 +45,8 @@ Gracias al plan de User Research podemos definir las claves sobre esta investiga
 Nuestros dos usuarios (Antonio y Marta) son un claro ejemplo de usuarios que pueden llegar a acceder a nuestra página de forma casual sin conocer el Enoturismo. 
 Antonio es una persona adulta, la cuál quiere hacer turismo, algo distinto a lo de siempre, y en Granada. Por otro lado, Marta, la cual tiene un objetivo en común con Antonio: hacer turismo diferente a lo acostumbrado con sus amigos.
 
-![marta](img/martaguerrapres.png) 
-![antonio](img/antoniolopezpres.png) 
+![marta](img/marta.png) 
+![antonio](img/image.png) 
 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
@@ -56,8 +56,8 @@ Antonio encuentra la página web investigando un poco sobre el Enoturismo, un te
 
 Son formas casuales de aproximarse tanto al tema (Enoturismo: cata de vinos), como de aproximarse a una web como es la nuestra u otra. Son formas que cualquiera de nosotros podría haber tomado para llegar a la página web, no es muy específico.
  
-![marta](img/martajourney.png.png) 
-![antonio](img/antoniojourney.png.png) 
+![marta](img/mjourney.png) 
+![antonio](img/ajourney.png) 
 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review

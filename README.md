@@ -86,7 +86,7 @@ La usabilidad de la página web no es de las mejores, hay un gran margen de mejo
 
 - Aspectos Negativos
 
-**Navegación poco intuitiva:** La estructura de la página web es enigmática cuando accedes a una parte del menú te pierdes y no sabes volver atrás no hay ningún menú para saber donde te encuentras y como has llegado
+**Navegación poco intuitiva:** La estructura de la página web es enigmática cuando accedes a una parte del menú te pierdes y no sabes volver atrás, no hay ningún menú para saber donde te encuentras y como has llegado
   
 **Rendimiento:** La página tarda mucho tiempo en cargar al cambiar de una págna a otra lo que lleva al usuario a estresarse y no querer navegar más por ella
 
@@ -94,15 +94,13 @@ La usabilidad de la página web no es de las mejores, hay un gran margen de mejo
 
 - Áreas de mejora
 
-**Optimización para Dispositivos Móviles:** Aunque la página es funcional en dispositivos móviles, podría mejorar su adaptabilidad y respuesta en pantallas más pequeñas. Se recomienda realizar pruebas adicionales en diferentes dispositivos móviles para garantizar una experiencia consistente.
+**Optimización para Dispositivos Móviles:** Aunque la página es funcional en dispositivos móviles, podría mejorar su respuesta en pantalla. Al acceder a algunos páginas no muestra la información correctamente o no se ve tanta información como en ordenador
   
-**Ofertar más productos:** Tiene una amplia
+**Mejorar la página:** Ofrecer una visión de cara al público una mejor web, más intuitiva, clara y sencilla en vez de sobrecargarla con información que no sirve
 
-- **Simplificación del Proceso de Registro:** Si hay un proceso de registro en la página, se recomienda simplificarlo y reducir el número de pasos necesarios. Los usuarios tienden a abandonar rápidamente los sitios con procesos de registro complicados.
+**Reservas:** Hacer las reservas más fáciles ya que un proceso sencillo de reservas permite al usuario reservar con más facilidad y no tener que rellenar un formulario muy complicado
 
-En resumen, aunque la página web ofrece una experiencia general positiva, existen oportunidades para mejorar su usabilidad y accesibilidad. Al abordar estas áreas de mejora, podemos garantizar que la página sea más efectiva en la satisfacción de las necesidades de los usuarios y en la consecución de los objetivos del sitio.
-
-
+En resumen, aunque la página web ofrece una experiencia general un tanto negativa, existen oportunidades para mejorar su usabilidad. Al abordar estas áreas de mejora, podemos garantizar que la página sea más efectiva en la satisfacción de las necesidades de los usuarios y en la consecución de los objetivos del sitio.
 
 
 ## Paso 2. UX Design  

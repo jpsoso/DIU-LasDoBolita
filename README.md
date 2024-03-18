@@ -66,8 +66,8 @@ Antonio encuentra la página web investigando un poco sobre el Enoturismo, un te
 
 Son formas casuales de aproximarse tanto al tema (Enoturismo: cata de vinos), como de aproximarse a una web como es la nuestra u otra. Son formas que cualquiera de nosotros podría haber tomado para llegar a la página web, no es muy específico.
  
-![marta](img/mjourney.png) 
-![antonio](img/ajourney.png) 
+![marta](img/ajourney.png) 
+![antonio](img/antoniojourney.png) 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----

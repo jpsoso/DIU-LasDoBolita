@@ -56,7 +56,7 @@ Hemos elegido https://turismodevino.com/ como la mejor de las 3. Si bien no es l
 Nuestros dos usuarios (Antonio y Marta) son un claro ejemplo de usuarios que pueden llegar a acceder a nuestra página de forma casual sin conocer el Enoturismo. 
 Antonio es una persona adulta, la cuál quiere hacer turismo, algo distinto a lo de siempre, y en Granada. Por otro lado, Marta, la cual tiene un objetivo en común con Antonio: hacer turismo diferente a lo acostumbrado con sus amigos.
 
-![marta](img/marta.png) 
+![marta](img/marta_person.png) 
 ![antonio](img/image.png) 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map

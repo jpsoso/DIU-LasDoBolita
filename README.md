@@ -72,11 +72,37 @@ Son formas casuales de aproximarse tanto al tema (Enoturismo: cata de vinos), co
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+Enlace:
+[Usability Review PDF](P1/Usability-review-template.pdf)
+
+Puntuación final:
+![Puntuacion final](img/puntuacion.png)
+
+Valoración:
+
+- Valoración de Usabilidad
+
+La usabilidad de la página web no es de las mejores, hay un gran margen de mejora que podría tener varios puntos importantes como el rendimiento a la hora de cargar de disintias páginas, la navegación no es del todo intuitiva y hay mucha información redundante, a la hora de la búsqueda se podría tener en cuenta añadir filtros de búsqueda para hacerla más eficiente más eficaz.
+
+- Aspectos Negativos
+
+**Navegación poco intuitiva:** La estructura de la página web es enigmática cuando accedes a una parte del menú te pierdes y no sabes volver atrás no hay ningún menú para saber donde te encuentras y como has llegado
+  
+**Rendimiento:** La página tarda mucho tiempo en cargar al cambiar de una págna a otra lo que lleva al usuario a estresarse y no querer navegar más por ella
+
+**Problema de mercado:** En la página al utilizar la opción de compra, tiene problemas a la hora de seleccionar los productos que se desean comprar
+
+- Áreas de mejora
+
+**Optimización para Dispositivos Móviles:** Aunque la página es funcional en dispositivos móviles, podría mejorar su adaptabilidad y respuesta en pantallas más pequeñas. Se recomienda realizar pruebas adicionales en diferentes dispositivos móviles para garantizar una experiencia consistente.
+  
+**Ofertar más productos:** Tiene una amplia
+
+- **Simplificación del Proceso de Registro:** Si hay un proceso de registro en la página, se recomienda simplificarlo y reducir el número de pasos necesarios. Los usuarios tienden a abandonar rápidamente los sitios con procesos de registro complicados.
+
+En resumen, aunque la página web ofrece una experiencia general positiva, existen oportunidades para mejorar su usabilidad y accesibilidad. Al abordar estas áreas de mejora, podemos garantizar que la página sea más efectiva en la satisfacción de las necesidades de los usuarios y en la consecución de los objetivos del sitio.
+
+
 
 
 ## Paso 2. UX Design  

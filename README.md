@@ -1,5 +1,5 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Actividades de montaña y nieve ) 
 
 Grupo: DIU3.LasDoBolita.  Curso: 2023/24 
 Updated: 11/2/2024

@@ -5,14 +5,14 @@ Grupo: DIU3.LasDoBolita.  Curso: 2023/24
 Updated: 11/2/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Amigos de la Nieve
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Página para organizar y participar en actividades de montaña relacionadas con la nieve, como ski, snowboard, senderismo en la nieve...
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> ![Logo](img/logo.png)
 
 Miembros
  * :bust_in_silhouette:   Jesús Pereira Sánchez     :octocat:     
@@ -158,28 +158,27 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![Moodboard de la práctica](<img/moodboard p3.png>)
+Para la generación del logotipo, hemos usado la página https://brandmark.io/, una IA que genera un logo en función de un texto y otros requerimientos.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+![Landing Page](img/landingpage.png)
 
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para nuestra aplicación, hemos usado algunos patrones de diseño como navBar para la búsqueda de actividades, carrusel de fotos de actividades y la hero image, article list y formularios de input para registro e inicio de sesión.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![Mockup 1](img/mockup_general_view1.png)
+![Mockup 1](img/mockup_general_view2.png)
+![Mockup 1](img/mockup_general_view3.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
@@ -195,7 +194,7 @@ Término | Significado
 Exportación a HTML/Flutter
 -----
 
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
+![Método UX](img/eye-tracking.png)  5.b Eye Tracking method 
 
 >>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
 

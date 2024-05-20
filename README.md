@@ -5,14 +5,14 @@ Grupo: DIU3.LasDoBolita.  Curso: 2023/24
 Updated: 11/2/2024
 
 Proyecto: 
->>> Amigos de la Nieve
+*Amigos de la Nieve*
 
 Descripción: 
 
->>> Página para organizar y participar en actividades de montaña relacionadas con la nieve, como ski, snowboard, senderismo en la nieve...
+Página para organizar y participar en actividades de montaña relacionadas con la nieve, como ski, snowboard, senderismo en la nieve...
 
 Logotipo: 
->>> ![Logo](img/logo.png)
+![Logo](img/logo.png)
 
 Miembros
  * :bust_in_silhouette:   Jesús Pereira Sánchez     :octocat:     

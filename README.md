@@ -15,7 +15,8 @@ Las actividades podrán realizarse en grupo para fomentar el deporte, hacerlas c
 
 
 Logotipo: 
-![Logo](img/logo.png)
+
+![icono](img/icono.png)
 
 Miembros
  * :bust_in_silhouette:   Jesús Pereira Sánchez     :octocat:     

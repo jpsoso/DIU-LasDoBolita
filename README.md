@@ -11,6 +11,9 @@ Descripción:
 
 Página para organizar y participar en actividades de montaña relacionadas con la nieve, como ski, snowboard, senderismo en la nieve...
 
+Las actividades podrán realizarse en grupo para fomentar el deporte, hacerlas con grupos de amigos y así hacerlas más amenas, además los usuarios tendrán su nivel asociado las actividades que hagan para evitar tener problemas a la hora de hacer deporte con gente más o menos experta.
+
+
 Logotipo: 
 ![Logo](img/logo.png)
 
@@ -108,49 +111,41 @@ En resumen, aunque la página web ofrece una experiencia general un tanto negati
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
+![EmpathyMap](img/empathyMap_figma.png)
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+En el mapa de empatía se pueden ver los pensamientos y acciones que tiene neustro usuario por lo que podría venir a nuestro club
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![scopeCanvas](img/scopeCanvas_figma.png)
+
+Los usuarios podrán consultar en un amplio catálogo de actividades de nieve filtrando por algunos filtros como ski, snow, senderismo en la nieve, por zonas y demás.
+
+Dentro de cualquier actividad, se muestra información relacionada con ella, como zona en la que se realizará, fechas, material necesario, número de personas mínimas y máximas para realizar actividad, grupos disponibles (con gente que se ha inscrito ya) y disponibilidad de hacer grupos privados y precios. Para este último, se incluyen opciones como alquiler de material (puede que el usuario interesado tenga material y no le interese alquilarlo), transporte a la zona (si el usuario necesita desplazarse allí o no), contratar monitores (si el grupo es primerizo en esa actividad).
+
+Para que el usuario se pueda inscribirse en una actividad será necesario que esté registrado en la página web, aportando datos personales como nombre completo, correo, número de teléfono y demás datos. Una vez registrado en la página, solo necesitará pagar una pequeña cantidad del total por cada miembro que quiera inscribir en la actividad para evitar cancelaciones el día de antes. 
+
+Se podrá cancelar la actividad y devolver importe total si se hace con mucha antelación y siempre y cuando los servicios contratados como materiales, desplazamientos y monitores se puedan cancelar también con ese tiempo de antelación.
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
-
->>> Definir "User Map" y "Task Flow" ... 
-
+![user tasks](img/user_tasks.png)
+![consultar actividades](img/consultarAct.png)
+![apuntase actividades](img/apuntarseAct.png)
+![organizar actividades](img/organizarAct.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+![siteMap](img/siteMap_figma.png)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+![wireframe1](img/wireframe_figma1.png)
+![wireframe2](img/wireframe_figma2.png)
+![wireframe3](img/wireframe_figma3.png)
+![wireframe4](img/wireframe_figma4.png)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 

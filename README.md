@@ -192,28 +192,26 @@ Exportación a HTML/Flutter
 
 ![Método UX](img/eye-tracking.png)  5.b Eye Tracking method 
 
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+Para realizr el eye tracking hemos utilizado gazerecorder donde hemos inventado dos usuarios y otros dos han sido compañeros de clase que simulan a una persona, el trabajo que tenian que hacer era ver/apuntarse a una actividad, es la única información que se dió y estos fueron los resultados del eyetracker
 
-Diseño del experimento 
-----
+### Para la página web A:
 
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+![Resultado1](P4/eyeTrack/an1.png)
+![Resultado2](P4/eyeTrack/an2.png)  
+![Resultado3](P4/eyeTrack/an3.png)  
+![Resultado4](P4/eyeTrack/an4.png)  
 
+### Para la página web B:
 
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
+![Resultado5](P4/eyeTrack/tm1.png)  
+![Resultado6](P4/eyeTrack/tm2.png)  
+![Resultado7](P4/eyeTrack/tm3.png)  
+  
 
 Resultados y valoración 
 -----
 
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
+Como ya hemos visto los resultados ahora se da paso a la evaluación de ellos para ello utilizamos un A/B testing con un cuetionario SUS para valorar a cada usuario y estos son los resultado
 
 
 ## Paso 4. Evaluación 
@@ -221,9 +219,7 @@ Resultados y valoración
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Nosotros tuviamos que evaluar a [Los tomates](https://github.com/Alejandroibo/DIU.LosTomates), en el apartado anterior vemos los resultado que tuvimos y ahora vamos a valorarlos
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -232,52 +228,106 @@ Resultados y valoración
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| Usuarios      | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Paula         | M / 23   | Estudiante  | Avanzada    | Sociable, trsite |  Móvil.       | A 
+| David  | H / 54   | Fotógrafo  | Baja       | Explorador         | Web        | A 
+| Marta  | M / 38   | Administrativa     | Intermedia        | Organizada, dedicada    | Móvil      | B 
+| Jose  | H / 22   | Estudiante  | Avanzada       | Alegre     | Web        | B 
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+![Resultado8](P4/AB_testing.png)  
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+Creemos que 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+## Usability Report
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
+
+##### Evaluación de usabilidad del proyecto 
+
+### El trotamundos
+
+### 31 de mayo de 2024
+
+[Los tomates](https://github.com/Alejandroibo/DIU.LosTomates)
+
+![Landing Page lostomates](P4/losTomatesLANP.png)
 
 
+### Realizado por:
 
->>> Valoración personal 
+El informe ha sido realizado por Jesús Pereira Sánchez y Raúl Florentino Serra, hemos realizado distintas acciones y hemos hecho la evaluación del eyetracking con distintos usuarios reales que no tenían relación con los proyectos.
 
-
-
-
-
-5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
-----
+Pero al ser compañeros de clase no se verificar al 100% que sus valoraciones sean justas, honestas y claras ya que al realizar ellos también el proyecto están contaminado.
 
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+## 1 DESCRIPCIÓN DEL WEBSITE
+
+El propósito es parecido al de nuestra website, se trata de una app que permite apuntarse a actividades de senderismo que llevará a cabo un monitor y se podrá realizar con más gente,  
 
 
+## 2 RESUMEN EJECUTIVO
+
+Vemos un poco la usabilidad de la aplicacion así como los usuarios que han sido los encargados de realizar los test. El único fallo que hemos encontrado son los colores que se han utilizado para la aplicación
+
+## 3 METODOLOGIA 
+
+#### Metodología de usabililidad
+
+Hemos utilizado un eyetracker, gazerecorder, para poder ver un mapa de calor de aquellas zonas a las que los usuarios cuando quieren hacer una actividad en la aplicacion dirigen la mirada, en nuestro caso se les dijo que tenian que ver/apuntarse a una actividad, los mapas ya fueron mostrados anteriormente.
+
+#### Test de usuarios: Participantes
+
+Estos son los participantes que han llevado a cabo el test 
+
+| Usuarios      | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| Paula         | M / 23   | Estudiante  | Avanzada    | Sociable, trsite |  Móvil.       | A 
+| David  | H / 54   | Fotógrafo  | Baja       | Explorador         | Web        | A 
+| Marta  | M / 38   | Administrativa     | Intermedia        | Organizada, dedicada    | Móvil      | B 
+| Jose  | H / 22   | Estudiante  | Avanzada       | Alegre     | Web        | B 
 
 
+#### Resultados obtenidos
+
+
+Los resultados de los test ya fueron vistos anteriormente
+
+
+## 4 CONCLUSIONES 
+
+Una vez hechas las pruebas y viendo los mapa de calor podemos ver que ambas aplicaciones se ven bastante similares, pues las dos tienen un calendario y distintos botones que permiten ver las actividades en un calendario, registrarse listar las actividades. 
+
+Debido a los colores, la página para el test B nos ha resultado un poco complicada visualmente ya que algunos colores no llegaban a tener un gran contraste y no se apreciaba bien visualmente 
+
+
+#### Incidencias
+
+No hemos tenido ningún problema a la hora de realizar el test o el cuestionario.
+
+#### Valoración 
+
+Nos ha resultado bastante fácil realizar la valoración ya que las aplicaciones eran similares, algunos de los puntos positivos que tenia la aplicación era lo completas que tenían la información las actividades cuando se mostraban permitiendo al usuario conocer un poco más de la actividad desde fuera y no tener que entrar.
+
+#### Recomendaciones y propuesta de mejoras: 
+
+La apliación en sí es muy completa y bastante intuitiva, lo único que vemos un punto de mejora son los colores. En algunas partes tienen muy poco contraste, otros son bastante oscuros y tienen brillo, colores tan oscuros para una aplicación de senderismo desde nuestro punto de vista es de las pocas cosas mala que tiene, creemos que podrían haber sido colores más claros representado un poco los colores de la montaña cuando tienen sol.
+
+#### Valoración de la prueba de usabilidad (self-assesment)
+
+Es una buena práctica utilizar estás técnicas pues nos proporciona una información muy útil para saber a donde mirará el usuario cuando esté en nuestra aplicación, ayudándonos a detectar errores y como podemos mejorar la experiencia del usuario dentro de nuestra aplicación.
+
+Un ejemplo de ello que no ha sido incluido fue a la hora de realizar una de las pruebas en gazerecoder nos dimos cuenta de que los usuarios cuando entraban en nuestra página lo primero que hacían era ver las imágenes, por ello cambiamos una parte que teníamos y añadimos una imagen cerca para que el usuario se centrara en ella.
 
 
 ## Conclusión final / Valoración de las prácticas
-
 
 >>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 

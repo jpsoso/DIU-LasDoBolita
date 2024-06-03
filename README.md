@@ -224,8 +224,6 @@ Nosotros tuviamos que evaluar a [Los tomates](https://github.com/Alejandroibo/DI
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
 | Usuarios      | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
@@ -329,17 +327,8 @@ Un ejemplo de ello que no ha sido incluido fue a la hora de realizar una de las 
 
 ## Conclusión final / Valoración de las prácticas
 
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+El proceso de diseño usando la metodología UX ha sido muy útil y nos ha dado una  idea de cómo hacer un proyecto pensando en los usuarios. Pasando por distintas etapas, desde la investigación y el análisis, junto a la creación de wireframes y la evaluación con eye tracking, hemos entendido mejor las necesidades y comportamientos de nuestros usuarios. Esto nos ha permitido identificar puntos clave para mejorar  a la hora de realizar una aplicación y tener en cuenta detalles que parecen insignificantes pero a la hora de mostrar nuestro producto a un usuario este sea el que triunfe
 
+Hemos conseguido diseñar una aplicación que es atractiva y sencilla de usar. Usar herramientas como el eye tracking nos ha ayudado en nuestras decisiones de diseño y posibles soluciones y ajustes que se podrían hacer basados en datos reales. 
 
-
-
-
-
-
-
-
-
-
-
-
+La experiencia que hemos obtenido es que a la hora de hacer futuros proyectos no tenemos que tener en cuentra nuestras decisiones por encima de todo, si no la de los usuarios, puesto que ellos serán los que consuman el producto, por tanto es algo positivo que hemos aprendido y que aplicaremos a la hora de hacer aplicaciones reales.
